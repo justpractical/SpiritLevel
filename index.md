@@ -1,3 +1,8 @@
-## Welcome to Pracical Spirit Level
+## Welcome to the Practical series of apps
+
+### Spirit Level and Angle Finder
+
+The Spirit Level is designed for use in taking angle measurements and for setting target angles.
+It has an audio signaling system built in to enable to you hit level or any other angle without needing to be able to see the screen
 
 
