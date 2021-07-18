@@ -93,8 +93,8 @@ Use the icon toggles to turn and off different features
 <hr>
 <table style="vertical-align:top">
 <tr>
-<td style="width:35%;vertical-align:top">
-<img src="https://justpractical.github.io/SpiritLevel/images/rangeControls.png" width=200px> 
+<td style="width:45%;vertical-align:top">
+<img src="https://justpractical.github.io/SpiritLevel/images/rangeControls.png"> 
 </td>
 <td style="width:65%;vertical-align:top">
  <p>
@@ -114,7 +114,7 @@ To measure between to specific points you should select how you would like to ta
 <hr>
 <table style="vertical-align:top">
 <tr>
-<td style="width:35%;vertical-align:top">
+<td style="width:45%;vertical-align:top">
 <img src="https://justpractical.github.io/SpiritLevel/images/calibrate.png" width=200px> 
 </td>
 <td style="width:65%;vertical-align:top">
