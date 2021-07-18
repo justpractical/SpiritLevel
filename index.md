@@ -18,7 +18,7 @@ The Spirit level is designed to allow users to easily find level. The integrated
 <table>
 <tr>
 <td style="width:40%">
-<img src="/images/selectTargetOrRange.png" width=200px> </td>
+<img src="/SpiritLevel/images/selectTargetOrRange.png" width=200px> </td>
 <td> <p>
 You can select between setting a target angle and measuring a range by swiping left and right on the lower half of the screen 
 
@@ -35,7 +35,7 @@ There are three different types of measurement, the camera takes and instant sna
 </p>
 </td>
 <td style="width:40%">
-<img src="/images/measureType.png" width=200px> 
+<img src="/SpiritLevel/images/measureType.png" width=200px> 
 </td>
 </tr>
 
@@ -48,7 +48,7 @@ There are three different types of measurement, the camera takes and instant sna
 <table>
 <tr>
 <td style="width:20%">
-<img src="/images/toggleIcons.png" height=200px> </td>
+<img src="/SpiritLevel/images/toggleIcons.png" height=200px> </td>
 <td>
  <p>
 Use the icon toggles to turn and off different features 
