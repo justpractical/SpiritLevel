@@ -94,7 +94,7 @@ Use the icon toggles to turn and off different features
 <table style="vertical-align:top">
 <tr>
 <td style="width:35%;vertical-align:top">
-<img src="https://justpractical.github.io/SpiritLevel/images/mainScreen.png" width=200px> 
+<img src="https://justpractical.github.io/SpiritLevel/images/rangeControls.png" width=200px> 
 </td>
 <td style="width:65%;vertical-align:top">
  <p>
