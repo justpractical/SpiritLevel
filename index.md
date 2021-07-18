@@ -1,8 +1,8 @@
-## Spirit Level and Angle Finder
 ### Another Just Practical App
 
 
-The Spirit level is designed to allow users to easily find level. The integrated audio alerts system allows operation without needing to be able to see the screen. The frequency of beeps increases as you approach your target angle until you are within your chosen tolerance. The pitch indicates the direction you need to move to reach your desired angle.
+SpiritLevel is part of the JustPractical series of apps designed to get the job done with all the features you will need right where you want them. 
+
 
 ### Key Benefits
 - Measure to any angle not just level
@@ -10,8 +10,8 @@ The Spirit level is designed to allow users to easily find level. The integrated
 - Calibration for both face up and face down operation (Even when using a phone case)
 - Measure the distance between two angles
 - Delayed readings to give you time to get phone in position
-- Accurate reading mode wont record until phone is stable
-- Variable tolerance for hitting target angle
+- Accurate reading mode won't record until the phone is stable
+- Configurable tolerance to adapt precision to what you actually need
 
 #### Setting a Target
 <hr>
@@ -44,6 +44,9 @@ Use the measuring type selector to select type of measurement then hit the Targe
 <td style="width:40%;vertical-align:top">
 <p>
 There are three different types of measurement, the camera takes and instant snapshot, the target will try to take a measurement but will only record when a stable reading is achieved, the timer will take a measurement after a countdown delay (you can change length of delay in main menu)
+
+<br><br>
+The Spirit Level includes integrated audio prompts enabling operation without needing to be able to see the screen. The frequency of beeps increases as you approach your target angle until you are within your chosen tolerance. The pitch indicates the direction you need to move to reach your desired angle.
 </p>
 </td>
 </tr>
@@ -145,3 +148,5 @@ Once calibrated, remember to update the orientation you are using the phone in t
 
 ## Data Collection and Retention Policy
 No data is collected from the Spirit Level app. All settings and calculation histories are stored locally on your device.
+
+Deleting the app will lose all of your data
