@@ -110,6 +110,29 @@ To measure between to specific points you should select how you would like to ta
 </table>
 
 
+#### Calibration
+<hr>
+<table style="vertical-align:top">
+<tr>
+<td style="width:35%;vertical-align:top">
+<img src="https://justpractical.github.io/SpiritLevel/images/calibrate.png" width=200px> 
+</td>
+<td style="width:65%;vertical-align:top">
+ <p>
+Your iPhone is fairly accurate straight out of the box, but to get the best performance it is good to calibrate the pitch and roll axes.
+
+In the preferences menu select > calibrate
+
+from here here you calibrate both for use with face up and face down. This is particularly important if you are using a phone case as the face and back are unlikely to be perfectly flat.
+
+Find a level surface, the more level the better. When calibrating a countdown measurement will be used to give you time to place the phone.
+
+Once calibrated, remember to update the orientation you are using the phone in to ensure the correct calibration is used.
+</p>
+</td>
+</tr>
+</table>
+
 
 
 ## Data Collection and Retention Policy
