@@ -17,39 +17,48 @@ The Spirit level is designed to allow users to easily find level. The integrated
 <hr>
 <table style="vertical-align:top">
 <tr>
-<td style="width:40%">
+<td style="width:40%;vertical-align:top">
 <img src="https://justpractical.github.io/SpiritLevel/images/selectTargetOrRange.png" width=200px> </td>
-<td> <p>
+<td style="width:60%;vertical-align:top">
+<p>
 You can select between setting a target angle and measuring a range by swiping left and right on the lower half of the screen 
 
 It is possible to set different target angles, for example if you are looking to set the level of a pitched roof at 20 degrees you can select the desired angle on the target page 
 
 Use the measuring type selector to select type of measurement then hit the Target button to set your angles. You can always adjust the angles manually by hitting the + / - buttons next to the measurement, to clear a target swipe up on the box you want to clear
-
 </p>
 </td>
 </tr>
+</table>
 
+<table style="vertical-align:top">
 <tr>
-<td> <p>
-There are three different types of measurement, the camera takes and instant snapshot, the target will try to take a measurement but will only record when a stable reading is achieved, the timer will take a measurement after a countdown delay (you can change length of delay in main menu)
-</p>
-</td>
-<td style="width:40%">
+<td style="width:100%;text-align:center">
 <img src="https://justpractical.github.io/SpiritLevel/images/measureType.png" width=200px> 
 </td>
 </tr>
 
 <tr>
-<td>
+<td style="width:40%;vertical-align:top">
+<p>
+There are three different types of measurement, the camera takes and instant snapshot, the target will try to take a measurement but will only record when a stable reading is achieved, the timer will take a measurement after a countdown delay (you can change length of delay in main menu)
+</p>
+</td>
+</tr>
+</table>
+
+
+
+<table style="vertical-align:top">
+<tr>
+<td style="width:70%;vertical-align:top">
 <p>
 When using the spirit level if you are within tolerance of your target angle the "air bubble" colour will change and the audio alerts will stop. When you are within 0.1 degrees of your target the whole of the vials colour will also change.
 
 To set the tolerance you can make an adjustment in settings or drag up or down the tolerance selector as shown
-
 </p>
 </td>
-<td>
+<td style="width:30%;vertical-align:top">
 <img src="https://justpractical.github.io/SpiritLevel/images/ChangeTollerance.png" width=100px> 
 </td>
 </tr>
@@ -62,9 +71,9 @@ To set the tolerance you can make an adjustment in settings or drag up or down t
 <hr>
 <table style="vertical-align:top">
 <tr>
-<td style="width:20%">
+<td style="width:20%;vertical-align:top">
 <img src="https://justpractical.github.io/SpiritLevel/images/toggleIcons.png" height=200px> </td>
-<td>
+<td style="width:80%;vertical-align:top">
  <p>
 Use the icon toggles to turn and off different features 
 <ul> 
@@ -84,9 +93,10 @@ Use the icon toggles to turn and off different features
 <hr>
 <table style="vertical-align:top">
 <tr>
-<td style="width:35%">
-<img src="https://justpractical.github.io/SpiritLevel/images/mainScreen.png" width=200px> </td>
-<td>
+<td style="width:35%;vertical-align:top">
+<img src="https://justpractical.github.io/SpiritLevel/images/mainScreen.png" width=200px> 
+</td>
+<td style="width:65%;vertical-align:top">
  <p>
  In order to measure between two angles you can swipe across to the measuring page. 
  
