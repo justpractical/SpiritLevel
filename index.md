@@ -15,7 +15,7 @@ The Spirit level is designed to allow users to easily find level. The integrated
 
 #### Setting a Target
 <hr>
-<table style="vertical-align:top">
+<table style="vertical-align:top;width:100%">
 <tr>
 <td style="width:40%;vertical-align:top">
 <img src="https://justpractical.github.io/SpiritLevel/images/selectTargetOrRange.png" width=200px> </td>
@@ -31,7 +31,7 @@ Use the measuring type selector to select type of measurement then hit the Targe
 </tr>
 </table>
 
-<table style="vertical-align:top">
+<table style="vertical-align:top;width:100%">
 <tr>
 <td style="width:100%;text-align:center">
 <img src="https://justpractical.github.io/SpiritLevel/images/measureType.png" width=200px> 
@@ -49,7 +49,7 @@ There are three different types of measurement, the camera takes and instant sna
 
 
 
-<table style="vertical-align:top">
+<table style="vertical-align:top;width:100%">
 <tr>
 <td style="width:70%;vertical-align:top">
 <p>
@@ -69,7 +69,7 @@ To set the tolerance you can make an adjustment in settings or drag up or down t
 
 #### Toggling on Features
 <hr>
-<table style="vertical-align:top">
+<table style="vertical-align:top;width:100%">
 <tr>
 <td style="width:20%;vertical-align:top">
 <img src="https://justpractical.github.io/SpiritLevel/images/toggleIcons.png" height=200px> </td>
@@ -91,10 +91,10 @@ Use the icon toggles to turn and off different features
 
 #### Measuring Between Points
 <hr>
-<table style="vertical-align:top">
+<table style="vertical-align:top;width:100%">
 <tr>
 <td style="width:35%;vertical-align:top">
-<img src="https://justpractical.github.io/SpiritLevel/images/rangeControls.png"> 
+<img src="https://justpractical.github.io/SpiritLevel/images/rangeControls.png" height=100 width=200> 
 </td>
 <td style="width:65%;vertical-align:top">
  <p>
@@ -112,7 +112,7 @@ To measure between to specific points you should select how you would like to ta
 
 #### Calibration
 <hr>
-<table style="vertical-align:top">
+<table style="vertical-align:top;width:100%">
 <tr>
 <td style="width:45%;vertical-align:top">
 <img src="https://justpractical.github.io/SpiritLevel/images/calibrate.png" width=200px> 
