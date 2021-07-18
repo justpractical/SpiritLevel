@@ -117,7 +117,7 @@ To measure between to specific points you should select how you would like to ta
 <td style="width:45%;vertical-align:top">
 <img src="https://justpractical.github.io/SpiritLevel/images/calibrate.png" width=200px> 
 </td>
-<td style="width:65%;vertical-align:top">
+<td style="width:55%;vertical-align:top">
  <p>
 Your iPhone is fairly accurate straight out of the box, but to get the best performance it is good to calibrate the pitch and roll axes.
 
