@@ -13,14 +13,56 @@ The Spirit level is designed to allow users to easily find level. The integrated
 - Accurate reading mode wont record until phone is stable
 - Variable tollerance for hitting target angle
 
-| Setting a Target| |
-|- |- |
-|![useful image](https://justpractical.github.io/SpiritLevel/images/selectTargetOrRange.png) | You can select between setting a target angle and measuring a range by swiping left and right on the lower half of the screen <br> <br> It is possible to set different target angles, for example if you are looking to set the level of a pitched roof at 20 degrees you can select the desired angle on the target page <br><br> Use the measuring type selector to select type of measurement then hit the Target button to set your angles. You can always adjust the angles manually by hitting the + / - buttons next to the measurement |
-| There are three different types of measurement, the camera takes and instant snapshot, the target will try to take a measurement but will only record when a stable reading is achieved, the timer will take a measurement after a countdown delay (you can change length of delay in main menu) | ![useful image](https://justpractical.github.io/SpiritLevel/images/measureType.png) |
+#### Setting a Target
+<hr>
+<table>
+<tr>
+<td style="width:40%">
+<img src=https://justpractical.github.io/SpiritLevel/images/selectTargetOrRange.png width=200px> </td>
+<td> <p>
+You can select between setting a target angle and measuring a range by swiping left and right on the lower half of the screen 
 
-| Toggling on Features| |
-|- |- |
-| Use the icon toggles to turn and off different features <br><br> - Audio : turn on audio alerts as you approach your target angle <br> - Pitch : Measure phone orientation along its length <br> - Roll : Measure phone orientation along its width <br> - Yaw: Measure phone rotation parallel to the ground <br> - Data Overlay : Show current reading in an overlay | ![useful image](https://justpractical.github.io/SpiritLevel/images/toggleIcons.png) |
+It is possible to set different target angles, for example if you are looking to set the level of a pitched roof at 20 degrees you can select the desired angle on the target page 
+
+Use the measuring type selector to select type of measurement then hit the Target button to set your angles. You can always adjust the angles manually by hitting the + / - buttons next to the measurement 
+</p>
+</td>
+</tr>
+
+<tr>
+<td> <p>
+There are three different types of measurement, the camera takes and instant snapshot, the target will try to take a measurement but will only record when a stable reading is achieved, the timer will take a measurement after a countdown delay (you can change length of delay in main menu)
+</p>
+</td>
+<td style="width:40%">
+<img src=https://justpractical.github.io/SpiritLevel/images/measureType.png width=200px> 
+</td>
+</tr>
+
+</table>
+
+
+
+#### Toggling on Features
+<hr>
+<table>
+<tr>
+<td style="width:20%">
+<img src=https://justpractical.github.io/SpiritLevel/images/toggleIcons.png height=200px> </td>
+<td>
+ <p>
+Use the icon toggles to turn and off different features 
+<ul> 
+<li>Audio : turn on audio alerts as you approach your target angle </li>
+<li>Pitch : Measure phone orientation along its length <li>
+<li>Roll : Measure phone orientation along its width </li>
+<li>Yaw: Measure phone rotation parallel to the ground <li>
+<li>Data Overlay : Show current reading in an overlay </li>
+</p>
+</td>
+</tr>
+</table>
+
 
 
 
