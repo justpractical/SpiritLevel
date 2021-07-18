@@ -6,3 +6,5 @@ The Spirit Level is designed for use in taking angle measurements and for settin
 It has an audio signaling system built in to enable to you hit level or any other angle without needing to be able to see the screen
 
 
+### Data Collection and Retention Policy
+No data is collectected from the Spirit Level app. All settings and calculation histories are stored locally on your device.
